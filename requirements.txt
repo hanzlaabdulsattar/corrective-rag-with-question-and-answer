@@ -1,0 +1,12 @@
+pydantic
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langgraph
+python-dotenv
+faiss-cpu
+pypdf
+rank_bm25
+langchain-classic
+sentence-transformers
